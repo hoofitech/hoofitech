@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on military service, but i will return to school soon.
-- 🌱 I’m currently learning python, panda, github
+- 🌱 I’m currently learning data analysis(python, pandas)
 - 📫 How to reach me: joshinflight1122@gmail.com
 
 
