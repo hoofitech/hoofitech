@@ -1,11 +1,7 @@
 ## About me 👋
 
-
-**hoofitech/hoofitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on military service, but i will return to school soon.
+- 🔭 I’m student of Hanguk University of Foreign Studies.
+- ✈️ My primary major is Economics, and my second major is AI Software.
 - 🌱 I’m currently learning data analysis(python, pandas)
 - 📫 How to reach me: joshinflight1122@gmail.com
 
